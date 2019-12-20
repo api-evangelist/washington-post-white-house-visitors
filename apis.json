@@ -1,0 +1,89 @@
+{
+    "name": "Washington Post White House Visitors",
+    "description": "Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1370-washington-post-white-house-visitors.jpg",
+    "tags": [
+        "have api",
+        "local",
+        "politics"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/washington-post-white-house-visitors\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Washington Post White House Visitors",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1370-washington-post-white-house-visitors.jpg",
+            "humanURL": "http:\/\/developer.washingtonpost.com\/api\/visitors_log",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/washington-post-white-house-visitors-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/washington-post-white-house-visitors-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.washingtonpost.com\/api\/visitors_log"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/washington-post"
+        },
+        {
+            "type": "Email",
+            "url": "readers@washpost.com"
+        },
+        {
+            "type": "Email",
+            "url": "comments@washpost.com"
+        },
+        {
+            "type": "Email",
+            "url": "rss@washpost.com"
+        },
+        {
+            "type": "Email",
+            "url": "homedelivery@washpost.com"
+        },
+        {
+            "type": "Email",
+            "url": "copyrightagent@washpost.com"
+        },
+        {
+            "type": "Email",
+            "url": "david.nakamura@washpost.com"
+        },
+        {
+            "type": "Email",
+            "url": "seungmin.kim@washpost.com"
+        },
+        {
+            "type": "Email",
+            "url": "karoun.demirjian@washpost.com"
+        },
+        {
+            "type": "Email",
+            "url": "mike.debonis@washpost.com"
+        },
+        {
+            "type": "Email",
+            "url": "tracy.jan@washpost.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/washingtonpost"
+        }
+    ]
+}
